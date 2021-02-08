@@ -129,15 +129,13 @@ http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 http://39.134.168.91/PLTV/1/224/3221225498/index.m3u8
 #EXTINF:-1 group-title="卫视频道",音乐台HD
 http://112.17.40.140/PLTV/88888888/224/3221226120/index.m3u8
-#EXTINF:-1 group-title="卫视频道",上海体育
+#EXTINF:-1 group-title="卫视频道",五星体育
 http://39.134.39.39/PLTV/88888888/224/3221226178/index.m3u8
 #EXTINF:-1 group-title="卫视频道",上海新闻
 http://183.207.255.188/live/program/live/xwzhhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="卫视频道",上海五星
-http://183.207.255.188/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 group-title="卫视频道",上海影视
+#EXTINF:-1 group-title="卫视频道",东方影视
 http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="卫视频道",上海外语
+#EXTINF:-1 group-title="卫视频道",上海ICS
 http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视频道",北京卫视蓝光1
 http://117.169.119.199:8080/live/hdbeijingstv/index.m3u8
